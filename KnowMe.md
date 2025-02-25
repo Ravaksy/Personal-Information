@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ravaksy
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the LAMP Technology
-- 💞️ I’m looking to collaborate on web development related projects
+- 👋 Hi, my name is Akshay Kumar Jha
+- 👀 I’m a student at CDAC_IACSD - PUNE
+- 🌱 - 💞️ 
 - 📫 How to reach me :- ravaksy@gmail.com & 8960041201
 
 <!---
